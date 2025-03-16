@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Mehmet YILDIRIM</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 10:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mehmetymw.github.io/myblog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Modern Go API with Clean Architecture</title>
+      <link>https://mehmetymw.github.io/myblog/blog/building-a-modern-go-api-with-clean-architecture/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://mehmetymw.github.io/myblog/blog/building-a-modern-go-api-with-clean-architecture/</guid>
+      <description>&lt;p&gt;When building modern web applications in Go, one of the most important decisions we make is choosing the right architecture. In this post, I&amp;rsquo;ll share my experience implementing Clean Architecture in a Go project, along with practical examples and best practices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-clean-architecture&#34;&gt;&#xA;  What is Clean Architecture?&#xA;  &lt;a class=&#34;heading-anchor&#34; href=&#34;#what-is-clean-architecture&#34; aria-label=&#34;Link to this section&#34;&gt;&#xA;    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34; height=&#34;16&#34; fill=&#34;currentColor&#34;&gt;&#xA;      &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z&#34;/&gt;&#xA;    &lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Clean Architecture, proposed by Robert C. Martin, emphasizes separation of concerns through layers:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building a Real-Time Data Pipeline with Debezium, Kafka, and Elasticsearch with Go</title>
       <link>https://mehmetymw.github.io/myblog/blog/building-a-real-time-data-pipeline-with-debezium-kafka-and-elasticsearch-with-go/</link>

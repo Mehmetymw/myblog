@@ -5,14 +5,17 @@
     <loc>https://mehmetymw.github.io/myblog/about/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mehmetymw.github.io/myblog/blog/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mehmetymw.github.io/myblog/blog/building-a-modern-go-api-with-clean-architecture/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mehmetymw.github.io/myblog/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mehmetymw.github.io/myblog/projects/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mehmetymw.github.io/myblog/blog/</loc>
-    <lastmod>2023-11-15T10:00:00+03:00</lastmod>
   </url><url>
     <loc>https://mehmetymw.github.io/myblog/blog/building-a-real-time-data-pipeline-with-debezium-kafka-and-elasticsearch-with-go/</loc>
     <lastmod>2023-11-15T10:00:00+03:00</lastmod>
