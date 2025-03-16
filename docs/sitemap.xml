@@ -2,28 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/myblog/about/</loc>
+    <loc>https://mehmetymw.github.io/myblog/about/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/blog/</loc>
+    <loc>https://mehmetymw.github.io/myblog/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/blog/building-a-modern-go-api-with-clean-architecture/</loc>
+    <loc>https://mehmetymw.github.io/myblog/projects/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/myblog/projects/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/myblog/blog/building-a-real-time-data-pipeline-with-debezium-kafka-and-elasticsearch-with-go/</loc>
+    <loc>https://mehmetymw.github.io/myblog/blog/</loc>
     <lastmod>2023-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/categories/</loc>
+    <loc>https://mehmetymw.github.io/myblog/blog/building-a-real-time-data-pipeline-with-debezium-kafka-and-elasticsearch-with-go/</loc>
+    <lastmod>2023-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/series/</loc>
+    <loc>https://mehmetymw.github.io/myblog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/myblog/tags/</loc>
+    <loc>https://mehmetymw.github.io/myblog/series/</loc>
+  </url><url>
+    <loc>https://mehmetymw.github.io/myblog/tags/</loc>
   </url>
 </urlset>
